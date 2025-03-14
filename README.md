@@ -10,3 +10,6 @@ MIUI万象息屏时钟会根据环境光调节亮度（只有两档：暗和亮�
 
 
  [去下载]( https://github.com/sumver/FixAODForMIUI14/releases/tag/RELEASE)
+
+
+![设置](https://github.com/sumver/FixAODForMIUI14/blob/master/app/screenshot/%E8%AE%BE%E7%BD%AE%E5%9B%BE.jpg)
